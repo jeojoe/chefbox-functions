@@ -1,0 +1,2 @@
+# chefbox-functions
+Serverless Chefbox
