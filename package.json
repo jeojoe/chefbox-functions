@@ -1,0 +1,16 @@
+{
+  "name": "chefbox-functions",
+  "version": "1.0.0",
+  "description": "serverless",
+  "main": "index.js",
+  "repository": "https://github.com/jeojoe/chefbox-functions.git",
+  "author": "Jirat Onaree <jirat.onaree@gmail.com>",
+  "license": "not mit la gun",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
