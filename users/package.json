@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@google-cloud/datastore": "^1.1.0"
+    "@google-cloud/datastore": "^1.1.0",
+    "bcrypt": "^1.0.3",
+    "jsonwebtoken": "^8.1.0"
   }
 }
